@@ -1,0 +1,12 @@
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\bin\Debug\SaveNameInArray.exe.config
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\bin\Debug\SaveNameInArray.exe
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\bin\Debug\SaveNameInArray.pdb
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.csprojResolveAssemblyReference.cache
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.Form1.resources
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.Properties.Resources.resources
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.csproj.GenerateResource.Cache
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.exe
+E:\Mizan\25.04.15\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.pdb
+G:\asp.net\Apps\SaveNameInArray\SaveNameInArray\bin\Debug\SaveNameInArray.exe.config
+G:\asp.net\Apps\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.exe
+G:\asp.net\Apps\SaveNameInArray\SaveNameInArray\obj\Debug\SaveNameInArray.pdb
